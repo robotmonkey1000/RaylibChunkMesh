@@ -1,0 +1,7 @@
+*.o
+vgcore.*
+\build\
+.vscode/
+.cache/
+
+MeshMaking

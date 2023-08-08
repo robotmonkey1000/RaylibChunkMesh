@@ -1,0 +1,92 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-gdwarf-3",
+      "-Wall",
+      "-std=c99",
+      "-D_DEFAULT_SOURCE",
+      "-Wno-missing-braces",
+      "-I./include",
+      "-c",
+      "-o",
+      "src/Block.o",
+      "src/Block.c"
+    ],
+    "directory": "/run/media/robot/Storage/Hobbies/Programming/Game Development/Raylib/MeshMaking",
+    "file": "/run/media/robot/Storage/Hobbies/Programming/Game Development/Raylib/MeshMaking/src/Block.c",
+    "output": "/run/media/robot/Storage/Hobbies/Programming/Game Development/Raylib/MeshMaking/src/Block.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-gdwarf-3",
+      "-Wall",
+      "-std=c99",
+      "-D_DEFAULT_SOURCE",
+      "-Wno-missing-braces",
+      "-I./include",
+      "-c",
+      "-o",
+      "src/ChunkMesh.o",
+      "src/ChunkMesh.c"
+    ],
+    "directory": "/run/media/robot/Storage/Hobbies/Programming/Game Development/Raylib/MeshMaking",
+    "file": "/run/media/robot/Storage/Hobbies/Programming/Game Development/Raylib/MeshMaking/src/ChunkMesh.c",
+    "output": "/run/media/robot/Storage/Hobbies/Programming/Game Development/Raylib/MeshMaking/src/ChunkMesh.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-gdwarf-3",
+      "-Wall",
+      "-std=c99",
+      "-D_DEFAULT_SOURCE",
+      "-Wno-missing-braces",
+      "-I./include",
+      "-c",
+      "-o",
+      "src/main.o",
+      "src/main.c"
+    ],
+    "directory": "/run/media/robot/Storage/Hobbies/Programming/Game Development/Raylib/MeshMaking",
+    "file": "/run/media/robot/Storage/Hobbies/Programming/Game Development/Raylib/MeshMaking/src/main.c",
+    "output": "/run/media/robot/Storage/Hobbies/Programming/Game Development/Raylib/MeshMaking/src/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-gdwarf-3",
+      "-Wall",
+      "-std=c99",
+      "-D_DEFAULT_SOURCE",
+      "-Wno-missing-braces",
+      "-I./include",
+      "-c",
+      "-o",
+      "src/models.o",
+      "src/models.c"
+    ],
+    "directory": "/run/media/robot/Storage/Hobbies/Programming/Game Development/Raylib/MeshMaking",
+    "file": "/run/media/robot/Storage/Hobbies/Programming/Game Development/Raylib/MeshMaking/src/models.c",
+    "output": "/run/media/robot/Storage/Hobbies/Programming/Game Development/Raylib/MeshMaking/src/models.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-gdwarf-3",
+      "-Wall",
+      "-std=c99",
+      "-D_DEFAULT_SOURCE",
+      "-Wno-missing-braces",
+      "-I./include",
+      "-c",
+      "-o",
+      "src/registries.o",
+      "src/registries.c"
+    ],
+    "directory": "/run/media/robot/Storage/Hobbies/Programming/Game Development/Raylib/MeshMaking",
+    "file": "/run/media/robot/Storage/Hobbies/Programming/Game Development/Raylib/MeshMaking/src/registries.c",
+    "output": "/run/media/robot/Storage/Hobbies/Programming/Game Development/Raylib/MeshMaking/src/registries.o"
+  }
+]
